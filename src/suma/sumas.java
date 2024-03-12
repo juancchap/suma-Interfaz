@@ -121,7 +121,7 @@ public class sumas extends javax.swing.JFrame {
         valor1=Double.valueOf(txtNumero1.getText());
         valor2=Double.valueOf(txtNumero2.getText());
         resultado=valor1+valor2;
-        txtResultado.setText(String.valueOf(resultado));
+          txtResultado.setText(String.valueOf(resultado));
         
     }//GEN-LAST:event_btnAceptarActionPerformed
 
